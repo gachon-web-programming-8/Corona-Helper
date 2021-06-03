@@ -164,7 +164,7 @@
 
         <div class="section-title">
           <h2>관련 정보</h2>
-          <p>보도자료, 최신뉴스, SNU 팩트체크, 대응수칙, 전자출입명부 안내</p>
+          <p>보도자료, 최신뉴스, SNU 팩트체크, 대응수칙, 전자출입명부 안내, 네이버 QR체크인 안내</p>
         </div>
 
        
@@ -186,55 +186,54 @@
           <div class="testimonial-item">
             <img src="assets/img/1.jpg" class="testimonial-img" alt="">
             <h3>보도자료</h3>
-            <h4>Naver</h4>
+            <h4>naver</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-             <a href="http://ncov.mohw.go.kr/tcmBoardList.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=&contSeq=&board_id=&gubun=" target="_blank">보도자료 새창으로 열기</a>
+             <a href="http://ncov.mohw.go.kr/tcmBoardList.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=&contSeq=&board_id=&gubun=">site</a>
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/2.jpg" class="testimonial-img" alt="">
-            <h3>최신뉴스</h3>
-            <h4>Naver</h4>
+            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+            <h3>Sara Wilsson</h3>
+            <h4>Designer</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-             <a href="https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=102&gid=1086319" target="_blank">최신뉴스 새창으로 열기</a>
+              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/3.jpg" class="testimonial-img" alt="">
-            <h3>SNU 팩트체크</h3>
-            <h4>Naver</h4>
+            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <h3>Jena Karlis</h3>
+            <h4>Store Owner</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-             <a href="https://news.naver.com/main/factcheck/main.nhn?section=%C4%DA%B7%CE%B3%AA+%B9%D9%C0%CC%B7%AF%BD%BA" target="_blank">SNU 팩트체크 새창으로 열기</a>
+              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/4.jpg" class="testimonial-img" alt="">
-            <h3>대응수칙</h3>
-            <h4>Naver</h4>
+            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+            <h3>Matt Brandon</h3>
+            <h4>Freelancer</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-			  <a href="http://ncov.mohw.go.kr/duBoardList.do?brdId=2&brdGubun=21&dataGubun=&ncvContSeq=&contSeq=&board_id=&gubun=" target="_blank">대응수칙으로 새창으로 열기</a>
+              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/5.jpg" class="testimonial-img" alt="">
-            <h3>전자출입명부 안내</h3>
-            <h4>Naver</h4>
+            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+            <h3>John Larson</h3>
+            <h4>Entrepreneur</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-             <a href="https://blog.naver.com/mohw2016/221995921830">
-			 전자출입명부 안내</a>
+              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
