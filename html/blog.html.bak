@@ -261,12 +261,12 @@
               <h3 class="sidebar-title">Hospital</h3>
               <div class="sidebar-item categories">
                 <ul>
-                  <li><a href="http://www.khuh.or.kr/">Kyung Hee University Hospital<span>Seoul</span></a></li>
-                  <li><a href="http://www.ddh.co.kr/00main/main.php">Daedong Hospital<span>Busan</span></a></li>
-                  <li><a href="https://tophospital.co.kr/main/main.html?">Geondan Tower Hospital<span>Inchon</span></a></li>
-                  <li><a href="http://www.lct.co.kr/">Lee Chun-taek Hospital<span>SUWON_GYEONGGI</span></a></li>
-                  <li><a href="https://www.knuh.or.kr/main/main.asp">Kangwon University Hosipital <span>KangWon</span></a></li>
-                  <li><a href="http://yonseis.com/">Yonsei Hospital<span>GYEONGSANM_DO</span></a></li>
+                  <li><a href="http://www.khuh.or.kr/">경희대병원<span>서울</span></a></li>
+                  <li><a href="http://www.ddh.co.kr/00main/main.php">대동병원<span>부산</span></a></li>
+                  <li><a href="https://tophospital.co.kr/main/main.html?">검단탑<span>인천</span></a></li>
+                  <li><a href="http://www.lct.co.kr/">이춘택병원<span>경기-수원</span></a></li>
+                  <li><a href="https://www.knuh.or.kr/main/main.asp">강원대병원 <span>강원</span></a></li>
+                  <li><a href="http://yonseis.com/">연세에스 병원<span>경남</span></a></li>
                 </ul>
 
               </div><!-- End sidebar categories-->

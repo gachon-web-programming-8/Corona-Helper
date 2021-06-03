@@ -52,7 +52,7 @@
         <ul>
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About Us</a></li>
-          <li class="active"><a href="services.html">피해현황</a></li>
+          <li class="active"><a href="services.html">Services</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
           <li><a href="team.html">Team</a></li>
           <li><a href="blog.html">Blog</a></li>
@@ -105,8 +105,8 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box icon-box-pink">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/NMre6IAAAiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>">전 세계 코로나 현황</a></h4>
-              <p class="description">Youtube covid 19입니다 실시간으로 전세계 코로나 감염자 수를 나타내 줍니다</p>
+              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>
 
