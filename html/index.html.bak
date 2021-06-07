@@ -50,10 +50,10 @@
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
           <li class="active"><a href="about.html">Home</a></li>
-          <li><a href="services.html">Damage Status</a></li>
-          <li><a href="portfolio.html">Damage Support Policy</a></li>
-          <li><a href="team.html">Corona Prevention</a></li>
-          <li><a href="blog.html">Self Diagnosis</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="team.html">Team</a></li>
+          <li><a href="blog.html">Blog</a></li>
         
       </nav><!-- .nav-menu -->
 
