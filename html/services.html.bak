@@ -102,17 +102,8 @@
       <div class="container" align="center">
 
         <div class="row" align="center">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="icon-box icon-box-pink">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="https://www.youtube.com/watch?v=NMre6IAAAiU">Corona status worldwide</a></h4>
-              <p class="description">It's Youtube covid 19. It represents the number of Corona infections worldwide in real time.</p> 
-			</div>
-			<div>
-			 <div align="right">
-			  <img src="assets/img/youtube.png" style="width=400" style="hight=300">
-			 </div>
-      		</div>
+          <div class="col-md-10 col-lg-8 d-flex align-items-stretch" data-aos="fade-up">
+            <iframe width="1120" height="630" src="https://www.youtube.com/embed/NMre6IAAAiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.
           </div>
 
           <!--<div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
